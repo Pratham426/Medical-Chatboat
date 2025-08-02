@@ -1,9 +1,11 @@
 # Medical-Chatboat
 
+CLone the repo
+
 '''bash
 git clone https://github.com/Pratham426/Medical-Chatboat.git
 '''
-#COnda
+#Conda
 
 '''bash
 conda create -n medibot python=3.10 -y
